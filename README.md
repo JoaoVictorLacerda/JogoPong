@@ -2,7 +2,7 @@
 Para jogar, é necessário ter o python3 e algum gerenciador de pacotes para baixar o 
 pygame (pip é fortemente recomendado).
 
-Instalação:
+Instalação com o python3-pip:
 
 pip install pygame.
 
